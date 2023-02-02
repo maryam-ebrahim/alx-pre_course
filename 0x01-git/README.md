@@ -1,2 +1,2 @@
 Repo-session task
-Collaboration: be up to date
+Collaboration: be up to date.
